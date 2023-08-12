@@ -1,9 +1,5 @@
 # Countdown Calculator
 
-![GitHub License](https://img.shields.io/github/license/batuhancam/countdown-with-java)
-![GitHub Stars](https://img.shields.io/github/stars/batuhancam/countdown-with-java)
-![GitHub Forks](https://img.shields.io/github/forks/batuhancam/countdown-with-java)
-
 Countdown Calculator is a Java program that aims to solve the Countdown number puzzle by generating or taking user-input numbers and a target number, then finding a sequence of operations that gets as close as possible to the target.
 
 ## Table of Contents
